@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1>Hey, I'm Travis Ma!</h1> 
+<a>https://portfolio-very-theme-ten.vercel.app/</a> , <a>https://www.linkedin.com/in/travis-maa/</a>
 
 <!--
 **TravisMa07/TravisMa07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
