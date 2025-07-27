@@ -1,17 +1,20 @@
-<h1>Hey, I'm Travis Ma!</h1> 
-<a href=https://portfolio-very-theme-ten.vercel.app>Portfolio/</a> , <a href=https://www.linkedin.com/in/travis-maa/>LinkedIn</a>
+<h1><a href=https://portfolio-very-theme-ten.vercel.app>Portfolio</a> | <a href=https://www.linkedin.com/in/travis-maa/>LinkedIn</a> </h1>
+<br/>
 
-<!--
-**TravisMa07/TravisMa07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=2000&pause=1000&color=F7F7F7&width=435&lines=About+Me%3A)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+> [!IMPORTANT]
+> Hey, I'm **Travis Ma**!
+>
+> I am studying as a cybersecurity student at Penn State. Alongside my education, I am [Comptia Security+](https://www.credly.com/badges/5c7ffe8a-557b-46c5-8ee3-e8531ce3a7ab) and [Comptia Network+](https://www.credly.com/badges/8a8937f6-84e1-41ac-9ec6-d5f7baa0744c) certified. I enjoy building projects that integrate the technical, managerial, and operational aspects of cybersecurity and IT.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=2000&pause=1000&color=F7F7F7&width=435&lines=Cybersecurity+Projects%3A)](https://git.io/typing-svg)
+
+- <b>placeholder</b>
+  - [placeholder](https://github.com/TravisMa07)
+- <b>placeholder</b>
+  - [placeholder](https://github.com/TravisMa07)
+- <b>placeholder</b>
+  - [placeholder](https:/github.com/TravisMa07)
+
