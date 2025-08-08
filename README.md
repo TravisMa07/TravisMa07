@@ -16,5 +16,5 @@
 - <b>Executable Static Malware Analyzer with EDR Integration</b>
   - [Project Documentation](https://github.com/TravisMa07/Malware-Analyzer-EDR)
 - <b>Threat Detection Engineering with Sigma & SIEM Rule Conversion</b>
-  - [placeholder](https://github.com/TravisMa07/Sigma-SIEM-Detection-Engineer)
+  - [Project Documentation](https://github.com/TravisMa07/Sigma-SIEM-Detection-Engineer)
 
