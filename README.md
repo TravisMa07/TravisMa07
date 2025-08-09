@@ -15,6 +15,6 @@
   - [Project Documentation](https://github.com/TravisMa07/active-directory-siem-soar-detection-response)
 - <b>Executable Static Malware Analyzer with EDR Integration</b>
   - [Project Documentation](https://github.com/TravisMa07/Malware-Analyzer-EDR)
-- <b>Threat Detection Engineering with Sigma & SIEM Rule Conversion</b>
-  - [Project Documentation](https://github.com/TravisMa07/Sigma-SIEM-Detection-Engineer)
+- <b>Phishing Simulation & Awareness Automation</b>
+  - [Project Documentation](https://github.com/TravisMa07/Phishing-Simulation-Awareness-Automation)
 
