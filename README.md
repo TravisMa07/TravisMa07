@@ -11,12 +11,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=2000&pause=1000&color=F7F7F7&width=435&lines=Cybersecurity+Projects%3A)](https://git.io/typing-svg)
 
+- <b>Cloud Security Posture Automation</b>
+  - [Project Documentation](https://github.com/TravisMa07/Cloud-Security-Posture-Automation)
 - <b>Automated Threat Detection & Response with Active Directory, SIEM, & SOAR </b>
   - [Project Documentation](https://github.com/TravisMa07/active-directory-siem-soar-detection-response)
 - <b>Executable Static Malware Analyzer with EDR Integration</b>
   - [Project Documentation](https://github.com/TravisMa07/Malware-Analyzer-EDR)
-- <b>Cloud Security Posture Automation</b>
-  - [Project Documentation](https://github.com/TravisMa07/Cloud-Security-Posture-Automation)
 - <b>MITRE ATT&CK Threat Detection Engineering Using Sigma Rules with SIEM</b>
   - [Project Documentation](https://github.com/TravisMa07/Threat-Detection-Engineering)
 - <b>Phishing Simulation & Awareness Automation</b>
