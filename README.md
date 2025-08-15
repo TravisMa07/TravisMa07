@@ -1,4 +1,4 @@
-<h1><a href=https://portfolio-very-theme-ten.vercel.app>Portfolio</a> | <a href=https://www.linkedin.com/in/travis-maa/>LinkedIn</a> </h1>
+<h1><a href=https://www.linkedin.com/in/travis-maa/>LinkedIn</a> </h1>
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=2000&pause=1000&color=F7F7F7&width=435&lines=About+Me%3A)](https://git.io/typing-svg)
