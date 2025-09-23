@@ -21,4 +21,7 @@
   - [Project Documentation](https://github.com/TravisMa07/Threat-Detection-Engineering)
 - <b>Phishing Simulation & Awareness Automation (WIP)</b>
   - [Project Documentation](https://github.com/TravisMa07/Phishing-Simulation-Awareness-Automation)
+- <b> Risk Management Project (WIP and Thinking) </b>
+  - [Project Documentation]()
+  - Will create some sort of Risk management questionaire using Python and Panda, and evaluate risk for a "company". Use that data to make dashboards with Power Bi, analyzing it and so on (blah blah blah). GRC type of project
 
