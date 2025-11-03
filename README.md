@@ -14,7 +14,7 @@
 > [![Network+ Badge](https://img.shields.io/badge/CompTIA%20Network%2B-Certified-orange?logo=comptia&logoColor=white)](https://www.credly.com/badges/8a8937f6-84e1-41ac-9ec6-d5f7baa0744c)
 > [![AWS CCP Badge](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Certified-blue?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/9e0ab135-dbe2-4639-9529-9cc203c32d37)
 >  
-> I’m passionate about building projects that bridge the technical, operational, and strategic aspects of cybersecurity. My focus is on creating practical solutions that enhance security, streamline processes, and demonstrate real-world impact. I’m particularly interested in cloud security and security operations, where I can apply my skills in threat detection, incident response, and automation to strengthen enterprise environments against evolving threats. I’m eager to apply my skills and knowledge in a professional setting and am looking forward to advancing my career in cybersecurity through hands-on experience and meaningful contributions.
+> I’m passionate about building projects that bridge the technical, operational, and strategic aspects of cybersecurity. My focus is on creating practical solutions that enhance security, streamline processes, and demonstrate real-world impact. I’m particularly interested in cloud security and security operations, where I can apply my skills to strengthen enterprise environments and their information assets. I’m eager to apply my skills and knowledge in a professional setting and am looking forward to advancing my career in cybersecurity through hands-on experience and meaningful contributions.
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=2000&pause=1000&color=F7F7F7&width=435&lines=Cybersecurity+Projects%3A)](https://git.io/typing-svg)
@@ -23,6 +23,8 @@
 ### ☁️ Cloud & Infrastructure
 - **[Cloud Resume Challenge (In Progress)]()**  
   _Currently in setup stage, deploying a personal resume site using AWS/Azure...._
+- **[Cloud Resilience & Incident Auto-Healing Framework (Concept Stage)]()**  
+_Event-driven AWS resiliency framework that detects, remediates, and analyzes cloud infrastructure failures using CloudWatch, EventBridge, Lambda, Systems Manager, Auto Scaling Groups, and Fault Injection Simulator (FIS)._
 - **[Cloud Security Posture Automation](https://github.com/TravisMa07/Cloud-Security-Posture-Automation)**  
   _Automated pipeline to assess and remediate cloud misconfigurations to improve security compliance and enforce baselines._
 
