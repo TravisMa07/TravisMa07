@@ -21,7 +21,7 @@
 
 
 ### ☁️ Cloud & Infrastructure
-- **[Cloud Resume Challenge (In Progress)]()**  
+- **[Cloud Resume Challenge (In Progress)](https://github.com/TravisMa07/Cloud-Resume-Challenge-AWS)**  
   _Currently in setup stage, deploying a personal resume site using AWS/Azure...._
 - **[Cloud Resilience & Incident Auto-Healing Framework (Concept Stage)]()**  
 _Event-driven AWS resiliency framework that detects, remediates, and analyzes cloud infrastructure failures using CloudWatch, EventBridge, Lambda, Systems Manager, Auto Scaling Groups, and Fault Injection Simulator (FIS)._
