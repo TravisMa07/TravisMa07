@@ -20,7 +20,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=2000&pause=1000&color=F7F7F7&width=435&lines=Cybersecurity+Projects%3A)](https://git.io/typing-svg)
 
 
-### ☁️ Cloud & Infrastructure
+### Cloud & Infrastructure
 - **[Cloud Resume Challenge (In Progress)](https://github.com/TravisMa07/Cloud-Resume-Challenge-AWS)**  
   _Current working on this project, AWS_
 - **[Cloud Resilience & Incident Auto-Healing Framework (Concept Stage)]()**  
@@ -28,7 +28,7 @@ _Event-driven AWS resiliency framework that detects, remediates, and analyzes cl
 - **[Cloud Security Posture Automation](https://github.com/TravisMa07/Cloud-Security-Posture-Automation)**  
   _Automated pipeline to assess and remediate cloud misconfigurations to improve security compliance and enforce baselines._
 
-### 🛡️ Threat Detection & Response
+### Threat Detection & Response
 - **[Automated Threat Detection & Response with Active Directory, SIEM, & SOAR](https://github.com/TravisMa07/active-directory-siem-soar-detection-response)**  
   _End-to-end detection and response pipeline integrating AD logs, SIEM correlation, SOAR automation, and Slack notifications._
 - **[MITRE ATT&CK Threat Detection Engineering Using Sigma Rules (Concept Stage)](https://github.com/TravisMa07/Threat-Detection-Engineering)**  
@@ -36,7 +36,7 @@ _Event-driven AWS resiliency framework that detects, remediates, and analyzes cl
 - **[Executable Static Malware Analyzer with EDR Integration](https://github.com/TravisMa07/Malware-Analyzer-EDR)**  
   _Static analysis tool to inspect and analyze executables, integrated with EDR workflows._
 
-### ⚖️ Governance, Risk, and Compliance
+### Governance, Risk, and Compliance
 - **[Phishing Simulation & Awareness Automation (Concept Stage)](https://github.com/TravisMa07/Phishing-Simulation-Awareness-Automation)**  
   _Automated phishing campaigns and analytics dashboard to measure employee awareness and response._
 - **[Risk Management Project (Concept Stage)]()**  
