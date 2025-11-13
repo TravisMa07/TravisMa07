@@ -21,8 +21,11 @@
 
 
 ### Cloud & Infrastructure
+- **[AI-Powered Kubernetes Log Intelligence Platform (In Progress)](https://github.com/TravisMa07/AI-Powered-Kubernetes-Log-Intelligence-Platform)**  
+  _AI-powered log intelligence system that filters noise, groups related events, detects anomalies, reconstructs timelines, and generates root-cause insights using containerized microservices on Kubernetes._
+
 - **[Cloud Resume Challenge (In Progress)](https://github.com/TravisMa07/Cloud-Resume-Challenge-AWS)**  
-  _Current working on this project, AWS_
+  _End-to-end cloud project implementing a serverless, full-stack resume website on AWS — featuring S3 static hosting, CloudFront CDN distribution, Route 53 DNS integration, Lambda API, DynamoDB visitor counter, and IaC automation with AWS SAM and CloudFormation._
 - **[Cloud Resilience & Incident Auto-Healing Framework (Concept Stage)]()**  
 _Event-driven AWS resiliency framework that detects, remediates, and analyzes cloud infrastructure failures using CloudWatch, EventBridge, Lambda, Systems Manager, Auto Scaling Groups, and Fault Injection Simulator (FIS)._
 - **[Cloud Security Posture Automation](https://github.com/TravisMa07/Cloud-Security-Posture-Automation)**  
