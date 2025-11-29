@@ -24,8 +24,8 @@
 - **[AI-Powered Kubernetes Log Intelligence Platform (In Progress)](https://github.com/TravisMa07/AI-Powered-Kubernetes-Log-Intelligence-Platform)**  
   _AI-powered log intelligence system that filters noise, groups related events, detects anomalies, reconstructs timelines, and generates root-cause insights using containerized microservices on Kubernetes._
 
-- **[Cloud Portfolio (In Progress)](https://github.com/TravisMa07/Cloud-Portfolio)**  
-  _End-to-end cloud project implementing a serverless, full-stack resume website on AWS — featuring S3 static hosting, CloudFront CDN distribution, Route 53 DNS integration, Lambda API, DynamoDB visitor counter, IaC automation with AWS SAM and CloudFormation, additional security-hardening features, and an AI Portfolio Assistant_
+- **[Cloud Portfolio](https://github.com/TravisMa07/Cloud-Portfolio)**  
+  _End-to-end AWS Cloud Portfolio implementation featuring S3 static hosting, CloudFront CDN, Route 53 DNS, ACM HTTPS, Lambda + DynamoDB visitor counter, API Gateway, full IaC with SAM/CloudFormation, and CI/CD with GitHub Actions_
 - **[Cloud Resilience & Incident Auto-Healing Framework (Concept Stage)]()**  
 _Event-driven AWS resiliency framework that detects, remediates, and analyzes cloud infrastructure failures using CloudWatch, EventBridge, Lambda, Systems Manager, Auto Scaling Groups, and Fault Injection Simulator (FIS)._
 - **[Cloud Security Posture Automation](https://github.com/TravisMa07/Cloud-Security-Posture-Automation)**  
