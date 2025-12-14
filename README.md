@@ -28,7 +28,7 @@
   _Static analysis tool to inspect and analyze executables, integrated with EDR workflows._
 
 ### Vulnerability Management
-- **[Vulnerability Management Program Implementation]()**  
+- **[Vulnerability Management Program Implementation](https://github.com/TravisMa07/vulnerability-management-program)**  
   _Complete end-to-end vulnerability management lifecycle with further possible continuation._
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**  
   _A list of programmatic remediations of vulnerabilities and their associate CVE. Public repo of scripts I have created._ 
