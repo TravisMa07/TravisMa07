@@ -19,6 +19,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=2000&pause=1000&color=F7F7F7&width=435&lines=Cybersecurity+Projects%3A)](https://git.io/typing-svg)
 
+### Threat Detection & Response
+- **[Automated Threat Detection & Response with Active Directory, SIEM, & SOAR](https://github.com/TravisMa07/active-directory-siem-soar-detection-response)**  
+  _End-to-end detection and response pipeline integrating AD logs, SIEM correlation, SOAR automation, and Slack notifications._
+- **[MITRE ATT&CK Threat Detection Engineering Using Sigma Rules (Concept Stage)](https://github.com/TravisMa07/Threat-Detection-Engineering)**  
+  _Developing custom Sigma rules mapped to MITRE ATT&CK techniques to improve detection coverage._
+- **[Executable Static Malware Analyzer with EDR Integration](https://github.com/TravisMa07/Malware-Analyzer-EDR)**  
+  _Static analysis tool to inspect and analyze executables, integrated with EDR workflows._
+
+### Vulnerability Management
+- **[Vulnerability Management Program Implementation]()**  
+  _Complete end-to-end vulnerability management lifecycle with further possible continuation._
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**  
+  _A list of programmatic remediations of vulnerabilities and their associate CVE. Public repo of scripts I have created._ 
 
 ### Cloud & Infrastructure
 - **[AI-Powered Kubernetes Log Intelligence Platform (In Progress)](https://github.com/TravisMa07/AI-Powered-Kubernetes-Log-Intelligence-Platform)**  
@@ -30,14 +43,6 @@
 _Event-driven AWS resiliency framework that detects, remediates, and analyzes cloud infrastructure failures using CloudWatch, EventBridge, Lambda, Systems Manager, Auto Scaling Groups, and Fault Injection Simulator (FIS)._
 - **[Cloud Security Posture Automation](https://github.com/TravisMa07/Cloud-Security-Posture-Automation)**  
   _Automated pipeline to assess and remediate cloud misconfigurations to improve security compliance and enforce baselines._
-
-### Threat Detection & Response
-- **[Automated Threat Detection & Response with Active Directory, SIEM, & SOAR](https://github.com/TravisMa07/active-directory-siem-soar-detection-response)**  
-  _End-to-end detection and response pipeline integrating AD logs, SIEM correlation, SOAR automation, and Slack notifications._
-- **[MITRE ATT&CK Threat Detection Engineering Using Sigma Rules (Concept Stage)](https://github.com/TravisMa07/Threat-Detection-Engineering)**  
-  _Developing custom Sigma rules mapped to MITRE ATT&CK techniques to improve detection coverage._
-- **[Executable Static Malware Analyzer with EDR Integration](https://github.com/TravisMa07/Malware-Analyzer-EDR)**  
-  _Static analysis tool to inspect and analyze executables, integrated with EDR workflows._
 
 ### Governance, Risk, and Compliance
 - **[Phishing Simulation & Awareness Automation (Concept Stage)](https://github.com/TravisMa07/Phishing-Simulation-Awareness-Automation)**  
