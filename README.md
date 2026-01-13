@@ -28,8 +28,8 @@
   _Static analysis tool to inspect and analyze executables, integrated with EDR workflows._
 
 ### Vulnerability Management
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**  
-  _A list of programmatic remediations of vulnerabilities and their associate CVE. Public repo of scripts I have created._
+- **[Programmatic Compliance and Vulnerability Remediations (PowerShell, BASH, Python)](https://github.com/TravisMa07/compliance-and-remediation)**  
+  _A list of programmatic scripts for remediations of vulnerabilities or enforcing compliance policies. Public repo of scripts I have created._
 - **[Vulnerability Management Program Implementation](https://github.com/TravisMa07/vulnerability-management-program)**  
   _Complete end-to-end vulnerability management lifecycle with further possible continuation._
 
