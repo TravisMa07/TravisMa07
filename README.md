@@ -38,7 +38,7 @@
   _AI-powered log intelligence system that filters noise, groups related events, detects anomalies, reconstructs timelines, and generates root-cause insights using containerized microservices on Kubernetes._
 
 - **[Cloud Portfolio](https://github.com/TravisMa07/Cloud-Portfolio)**  
-  _End-to-end AWS Cloud Portfolio implementation featuring S3 static hosting, CloudFront CDN, Route 53 DNS, ACM HTTPS, Lambda + DynamoDB visitor counter, API Gateway, full IaC with SAM/CloudFormation, and CI/CD with GitHub Actions_
+  _End-to-end AWS Cloud Portfolio implementation featuring S3 static hosting, CloudFront CDN, Route 53 DNS, ACM HTTPS, Lambda + DynamoDB visitor counter, API Gateway, full IaC with SAM/CloudFormation, and CI/CD with GitHub Actions._
 - **[Cloud Resilience & Incident Auto-Healing Framework (Concept Stage)]()**  
 _Event-driven AWS resiliency framework that detects, remediates, and analyzes cloud infrastructure failures using CloudWatch, EventBridge, Lambda, Systems Manager, Auto Scaling Groups, and Fault Injection Simulator (FIS)._
 - **[Cloud Security Posture Automation](https://github.com/TravisMa07/Cloud-Security-Posture-Automation)**  
@@ -47,5 +47,5 @@ _Event-driven AWS resiliency framework that detects, remediates, and analyzes cl
 ### Governance, Risk, and Compliance
 - **[Phishing Simulation & Awareness Automation (Concept Stage)](https://github.com/TravisMa07/Phishing-Simulation-Awareness-Automation)**  
   _Automated phishing campaigns and analytics dashboard to measure employee awareness and response._
-- **[Risk Management Project (Concept Stage)]()**  
+- **[Risk Management Project (Concept Stage)]()**
   _Python-based risk questionnaire system using pandas for data analysis, with Power BI dashboards for visualization._
