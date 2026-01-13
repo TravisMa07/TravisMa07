@@ -28,10 +28,14 @@
   _Static analysis tool to inspect and analyze executables, integrated with EDR workflows._
 
 ### Vulnerability Management
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**  
+  _A list of programmatic remediations of vulnerabilities and their associate CVE. Public repo of scripts I have created._
 - **[Vulnerability Management Program Implementation](https://github.com/TravisMa07/vulnerability-management-program)**  
   _Complete end-to-end vulnerability management lifecycle with further possible continuation._
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**  
-  _A list of programmatic remediations of vulnerabilities and their associate CVE. Public repo of scripts I have created._ 
+
+### Threat Hunting
+- **[Threat Hunting Scenario: Unauthorized TOR Usage](https://github.com/TravisMa07/threat-hunting-scenario-tor)**  
+  _Threat hunting scenario writeup for unauthorized TOR usage._
 
 ### Cloud & Infrastructure
 - **[AI-Powered Kubernetes Log Intelligence Platform (In Progress)](https://github.com/TravisMa07/AI-Powered-Kubernetes-Log-Intelligence-Platform)**  
