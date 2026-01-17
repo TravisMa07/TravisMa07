@@ -27,15 +27,15 @@
 - **[Executable Static Malware Analyzer with EDR Integration](https://github.com/TravisMa07/Malware-Analyzer-EDR)**  
   _Static analysis tool to inspect and analyze executables, integrated with EDR workflows._
 
+### Threat Hunting
+- **[Threat Hunt Reports](https://github.com/TravisMa07/Threat-Hunting-Reports)**  
+  _A collection of documented threat hunting scenarios and simulated adversary activities that I've documented, mapped to MITRE ATT&CK and supported by evidence, detections, timelines, and analysis notes. Designed for training, research, and improving detection coverage._
+
 ### Vulnerability Management
 - **[Programmatic Compliance and Vulnerability Remediations (PowerShell, BASH, Python)](https://github.com/TravisMa07/compliance-and-remediation)**  
   _A list of programmatic scripts for remediations of vulnerabilities or enforcing compliance policies. Public repo of scripts I have created._
 - **[Vulnerability Management Program Implementation](https://github.com/TravisMa07/vulnerability-management-program)**  
   _Complete end-to-end vulnerability management lifecycle with further possible continuation._
-
-### Threat Hunting
-- **[Threat Hunting Scenario: Unauthorized TOR Usage](https://github.com/TravisMa07/threat-hunting-scenario-tor)**  
-  _Threat hunting scenario writeup for unauthorized TOR usage._
 
 ### Cloud & Infrastructure
 - **[AI-Powered Kubernetes Log Intelligence Platform (In Progress)](https://github.com/TravisMa07/AI-Powered-Kubernetes-Log-Intelligence-Platform)**  
