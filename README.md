@@ -51,5 +51,5 @@ _Event-driven AWS resiliency framework that detects, remediates, and analyzes cl
 ### Governance, Risk, and Compliance
 - **[Phishing Simulation & Awareness Automation (Concept Stage)](https://github.com/TravisMa07/Phishing-Simulation-Awareness-Automation)**  
   _Automated phishing campaigns and analytics dashboard to measure employee awareness and response._
-- **[Risk Management Project (Concept Stage)]()**
+- **[Risk Management Project (Concept Stage)]()**  
   _Python-based risk questionnaire system using pandas for data analysis, with Power BI dashboards for visualization._
