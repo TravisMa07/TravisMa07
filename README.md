@@ -28,7 +28,7 @@
   _Static analysis tool to inspect and analyze executables, integrated with EDR workflows._
 
 ### Threat Hunting
-- **[Threat Hunt Reports](https://github.com/TravisMa07/Threat-Hunting-Reports)**  
+- **[Threat Hunting Reports](https://github.com/TravisMa07/Threat-Hunting-Reports)**  
   _A collection of documented threat hunting scenarios and simulated adversary activities that I've documented, mapped to MITRE ATT&CK and supported by evidence, detections, timelines, and analysis notes. Designed for training, research, and improving detection coverage._
 
 ### Vulnerability Management
