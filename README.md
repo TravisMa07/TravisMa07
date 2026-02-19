@@ -32,7 +32,9 @@
   _A collection of documented threat hunting scenarios and simulated adversary activities that I've documented, mapped to MITRE ATT&CK and supported by evidence, detections, timelines, and analysis notes. Designed for training, research, and improving detection coverage._
 
 ### Vulnerability Management
-- **[Container Vulnerability Management Pipeline for Kubernetes](https://github.com/TravisMa07/container-vm-kubernetes)**  
+- **[Vulnerability Management Engine (In Progress)](https://github.com/TravisMa07/Vulnerability-Management-Engine)**  
+  _A risk-based vulnerability management platform that normalizes findings, enriches CVEs with KEV/EPSS threat intelligence, and enforces SLA decisions through a policy-driven escalation engine—featuring explainable scoring and an AI-assisted triage layer._
+- **[Container Vulnerability Management Pipeline for Kubernetes (Concept Stage)](https://github.com/TravisMa07/container-vm-kubernetes)**  
   _Container vulnerability management pipeline for Kubernetes, integrating image scanning, policy enforcement, and runtime detection. Prevents insecure workloads from reaching the cluster through automated CI gates and declarative GitOps deployment controls._
 - **[Programmatic Compliance and Vulnerability Remediations (PowerShell, BASH, Python)](https://github.com/TravisMa07/compliance-and-remediation)**  
   _A list of programmatic scripts for remediations of vulnerabilities or enforcing compliance policies. Public repo of scripts I have created._
