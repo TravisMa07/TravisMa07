@@ -32,6 +32,8 @@
   _A collection of documented threat hunting scenarios and simulated adversary activities that I've documented, mapped to MITRE ATT&CK and supported by evidence, detections, timelines, and analysis notes. Designed for training, research, and improving detection coverage._
 
 ### Vulnerability Management
+- **[Vulnerability Management Analysis and Prioritization Tool](https://github.com/TravisMa07/VM-Analysis-Tool)**  
+  _Open-source vulnerability management analysis and prioritization tooling for reviewing CVE, CVSS, EPSS, and KEV data in one aggregated place for faster triage._
 - **[Vulnerability Management Engine (In Progress)](https://github.com/TravisMa07/Vulnerability-Management-Engine)**  
   _A risk-based vulnerability management platform that normalizes findings, enriches CVEs with KEV/EPSS threat intelligence, and enforces SLA decisions through a policy-driven escalation engine—featuring explainable scoring and an AI-assisted triage layer._
 - **[Container Vulnerability Management Pipeline for Kubernetes (Concept Stage)](https://github.com/TravisMa07/container-vm-kubernetes)**  
