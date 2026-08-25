@@ -7,20 +7,21 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=2000&pause=1000&color=F7F7F7&width=435&lines=About+Me%3A)](https://git.io/typing-svg)
 
 > [!IMPORTANT]
-> I'm a cybersecurity student at Penn State.  
+> I'm a cybersecurity student at Penn State and a Security Engineer Intern at GoDaddy, focused on vulnerability management, detection engineering, cloud security, and defensive automation.  
 >  
 > **Certifications:**  
+> ![CySA+ Badge](https://img.shields.io/badge/CompTIA%20CySA%2B-Certified-7c3aed?logo=comptia&logoColor=white)
 > [![Security+ Badge](https://img.shields.io/badge/CompTIA%20Security%2B-Certified-red?logo=comptia&logoColor=white)](https://www.credly.com/badges/5c7ffe8a-557b-46c5-8ee3-e8531ce3a7ab)
 > [![Network+ Badge](https://img.shields.io/badge/CompTIA%20Network%2B-Certified-orange?logo=comptia&logoColor=white)](https://www.credly.com/badges/8a8937f6-84e1-41ac-9ec6-d5f7baa0744c)
 > [![AWS CCP Badge](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Certified-blue?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/9e0ab135-dbe2-4639-9529-9cc203c32d37)
 >  
-> I’m passionate about building projects that bridge the technical, operational, and strategic aspects of cybersecurity. My focus is on creating practical solutions that enhance security, streamline processes, and demonstrate real-world impact. I’m particularly interested in cloud security and security operations, where I can apply my skills to strengthen enterprise environments and their information assets. I’m eager to apply my skills and knowledge in a professional setting and am looking forward to advancing my career in cybersecurity through hands-on experience and meaningful contributions.
+> I build practical security projects that turn technical evidence into clear decisions and repeatable defensive action. My current work spans vulnerability analysis and prioritization, security operations, threat hunting, cloud controls, and response automation.
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=2000&pause=1000&color=F7F7F7&width=435&lines=Cybersecurity+Projects%3A)](https://git.io/typing-svg)
 
 ### Threat Detection & Response
-- **[Automated Threat Detection & Response with Active Directory, SIEM, & SOAR](https://github.com/TravisMa07/active-directory-siem-soar-detection-response)**  
+- **[Automated Threat Detection & Response with Active Directory, SIEM, & SOAR](https://github.com/TravisMa07/ad-threat-detection-response)**  
   _End-to-end detection and response pipeline integrating AD logs, SIEM correlation, SOAR automation, and Slack notifications._
 - **[MITRE ATT&CK Threat Detection Engineering Using Sigma Rules (Concept Stage)](https://github.com/TravisMa07/Threat-Detection-Engineering)**  
   _Developing custom Sigma rules mapped to MITRE ATT&CK techniques to improve detection coverage._
