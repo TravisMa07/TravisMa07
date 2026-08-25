@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=2000&pause=1000&color=F7F7F7&width=435&lines=About+Me%3A)](https://git.io/typing-svg)
 
 > [!IMPORTANT]
-> I'm a cybersecurity student at Penn State and a Security Engineer Intern at GoDaddy, focused on vulnerability management, detection engineering, cloud security, and defensive automation.  
+> I'm a cybersecurity student at Penn State specializing in security operations and vulnerability management, with additional experience in cloud security and defensive automation.  
 >  
 > **Certifications:**  
 > ![CySA+ Badge](https://img.shields.io/badge/CompTIA%20CySA%2B-Certified-7c3aed?logo=comptia&logoColor=white)
@@ -15,7 +15,7 @@
 > [![Network+ Badge](https://img.shields.io/badge/CompTIA%20Network%2B-Certified-orange?logo=comptia&logoColor=white)](https://www.credly.com/badges/8a8937f6-84e1-41ac-9ec6-d5f7baa0744c)
 > [![AWS CCP Badge](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Certified-blue?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/9e0ab135-dbe2-4639-9529-9cc203c32d37)
 >  
-> I build practical security projects that turn technical evidence into clear decisions and repeatable defensive action. My current work spans vulnerability analysis and prioritization, security operations, threat hunting, cloud controls, and response automation.
+> I build practical security projects that turn technical evidence into clear decisions and repeatable defensive action. My primary focus spans security operations, threat hunting, vulnerability analysis and prioritization, and response automation, supported by hands-on cloud security work.
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=2000&pause=1000&color=F7F7F7&width=435&lines=Cybersecurity+Projects%3A)](https://git.io/typing-svg)
