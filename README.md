@@ -10,7 +10,7 @@
 > I'm a cybersecurity student at Penn State specializing in security operations and vulnerability management, with additional experience in cloud security and defensive automation.  
 >  
 > **Certifications:**  
-> ![CySA+ Badge](https://img.shields.io/badge/CompTIA%20CySA%2B-Certified-7c3aed?logo=comptia&logoColor=white)
+> [![CySA+ Badge](https://img.shields.io/badge/CompTIA%20CySA%2B-Certified-7c3aed?logo=comptia&logoColor=white)](https://www.credly.com/badges/d2470903-c74a-4257-800e-a5f904368b05/public_url)
 > [![Security+ Badge](https://img.shields.io/badge/CompTIA%20Security%2B-Certified-red?logo=comptia&logoColor=white)](https://www.credly.com/badges/5c7ffe8a-557b-46c5-8ee3-e8531ce3a7ab)
 > [![Network+ Badge](https://img.shields.io/badge/CompTIA%20Network%2B-Certified-orange?logo=comptia&logoColor=white)](https://www.credly.com/badges/8a8937f6-84e1-41ac-9ec6-d5f7baa0744c)
 > [![AWS CCP Badge](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Certified-blue?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/9e0ab135-dbe2-4639-9529-9cc203c32d37)
