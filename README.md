@@ -28,6 +28,11 @@
 - **[Executable Static Malware Analyzer with EDR Integration](https://github.com/TravisMa07/Malware-Analyzer-EDR)**  
   _Static analysis tool to inspect and analyze executables, integrated with EDR workflows._
 
+### Threat Intelligence
+
+- **[Signal Desk CTI Platform (In Progress)](https://github.com/TravisMa07/signal-desk-cti-platform)**  
+  _A personalized threat intelligence platform that aggregates cybersecurity news and CVE feeds, matches findings to technology inventories, and supports AI-assisted triage with manual or scheduled refreshes and Slack/Discord alerts._
+
 ### Threat Hunting
 - **[Threat Hunting Reports](https://github.com/TravisMa07/Threat-Hunting-Reports)**  
   _A collection of documented threat hunting scenarios and simulated adversary activities that I've documented, mapped to MITRE ATT&CK and supported by evidence, detections, timelines, and analysis notes. Designed for training, research, and improving detection coverage._
